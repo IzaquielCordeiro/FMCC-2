@@ -1,7 +1,7 @@
 import cv2 as cv
 
-img1 = cv.imread('../input/imagem1.jpg')
-img2 = cv.imread('../input/imagem2.jpg')
+img1 = cv.imread('../input/imagem3.jpg')
+img2 = cv.imread('../input/imagem4.jpg')
 
 
 def none(x):
