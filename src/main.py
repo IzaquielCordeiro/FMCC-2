@@ -7,7 +7,6 @@ img2 = cv.imread('../input/imagem4.jpg')
 def none(x):
     pass
 
-
 def fadeApply(img1, img2, alpha):
     newImage = img1 * alpha + img2 * (1 - alpha)
 
