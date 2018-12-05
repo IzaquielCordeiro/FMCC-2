@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+echo 'Instalando o opencv-python'
+pip install --user opencv-python
+
+chmod +x run
+./run
